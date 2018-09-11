@@ -115,7 +115,6 @@ letter-spacing: 0.72px;}
            	height: 747px;}
            .home{display: inline-block;
            	margin-left: 346px;
-           	padding-right: : 200px;
            	margin-top: 60px;
              width: 412px;
             height: 747px;
@@ -123,6 +122,31 @@ letter-spacing: 0.72px;}
              background-color: #ffffff;
             background-image: url(features-group.png);
         }
+        .task2{display: inline-block;
+        width: 548px;
+height: 46px;
+color: #2ecc71;
+font-family: Roboto;
+font-size: 48px;
+font-weight: 300;
+line-height: 60px;
+/* Text style for "B, est cal" */
+color: #5a5a5a;
+letter-spacing: 1.44px;
+/* Text style for "" */
+color: #0fd41b;
+letter-spacing: 1.44px;
+/* Text style for "counter ap" */
+letter-spacing: 1.44px;}.text{display: inline-block;
+width: 462px;
+height: 82px;
+color: #5a5a5a;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 300;
+line-height: 32px;
+/* Text style for "Lorem ipsu" */
+letter-spacing: 0.54px;}
             
                 
             
